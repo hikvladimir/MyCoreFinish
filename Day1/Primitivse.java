@@ -1,3 +1,7 @@
+/*Создать проект, имя проекта primitives
+	В методе main создать все типы примитивных переменных
+	Инициализировать их значениями
+	Все значения вывести на экран*/
 public class Primitivse {
     public static void main(String[] args) {
         byte b = 0x55;
